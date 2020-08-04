@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chemtex5.Android", "Chemtex5\Chemtex5.Android\Chemtex5.Android.csproj", "{50E153D5-61F7-404A-9029-B3680A0F4300}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chemtex5", "Chemtex5\Chemtex5\Chemtex5.csproj", "{1F6294DA-EA9A-44EA-9362-C48ABAEB40BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50E153D5-61F7-404A-9029-B3680A0F4300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50E153D5-61F7-404A-9029-B3680A0F4300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50E153D5-61F7-404A-9029-B3680A0F4300}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{50E153D5-61F7-404A-9029-B3680A0F4300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50E153D5-61F7-404A-9029-B3680A0F4300}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50E153D5-61F7-404A-9029-B3680A0F4300}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{1F6294DA-EA9A-44EA-9362-C48ABAEB40BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F6294DA-EA9A-44EA-9362-C48ABAEB40BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F6294DA-EA9A-44EA-9362-C48ABAEB40BC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1F6294DA-EA9A-44EA-9362-C48ABAEB40BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F6294DA-EA9A-44EA-9362-C48ABAEB40BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F6294DA-EA9A-44EA-9362-C48ABAEB40BC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBC3B997-DE47-4A17-A86D-065C454C3C76}
+	EndGlobalSection
+EndGlobal
